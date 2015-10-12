@@ -1,0 +1,40 @@
+<h2>Hover "Circle Effect 1"</h2>
+[trx_blogger cat="portfolio-hover-4-columns" count="8" orderby="date" order="desc" style="portfolio4" hover="circle effect1" info="no" descr="100"]
+<h2>Hover "Circle Effect 2"</h2>
+[trx_blogger cat="portfolio-hover-4-columns" count="8" offset="1" orderby="date" order="desc" style="portfolio4" hover="circle effect2" hover_dir="left_to_right" info="yes" descr="100"]
+<h2>Hover "Circle Effect 3"</h2>
+[trx_blogger cat="portfolio-hover-4-columns" count="8" offset="2" orderby="date" order="desc" style="portfolio4" hover="circle effect3" hover_dir="left_to_right" info="yes" descr="100"]
+<h2>Hover "Circle Effect 4"</h2>
+[trx_blogger cat="portfolio-hover-4-columns" count="8" offset="3" orderby="date" order="desc" style="portfolio4" hover="circle effect4" hover_dir="bottom_to_top" info="yes" descr="100"]
+<h2>Hover "Circle Effect 5"</h2>
+[trx_blogger cat="portfolio-hover-4-columns" count="8" offset="4" orderby="date" order="desc" style="portfolio4" hover="circle effect5" info="yes" descr="100"]
+<h2>Hover "Circle Effect 6"</h2>
+[trx_blogger cat="portfolio-hover-4-columns" count="8" offset="5" orderby="date" order="desc" style="portfolio4" hover="circle effect6" hover_dir="scale_down_up" info="yes" descr="100"]
+<h2>Hover "Circle Effect 7"</h2>
+[trx_blogger cat="portfolio-hover-4-columns" count="8" offset="6" orderby="date" order="desc" style="portfolio4" hover="circle effect7" hover_dir="right_to_left" info="yes" descr="100"]
+<h2>Hover "Circle Effect 8"</h2>
+[trx_blogger cat="portfolio-hover-4-columns" count="8" offset="7" orderby="date" order="desc" style="portfolio4" hover="circle effect8" hover_dir="bottom_to_top" info="yes" descr="100"]
+<h2>Hover "Circle Effect 9"</h2>
+[trx_blogger cat="portfolio-hover-4-columns" count="8" offset="8" orderby="date" order="desc" style="portfolio4" hover="circle effect9" hover_dir="left_to_right" info="yes" descr="100"]
+<h2>Hover "Circle Effect 10"</h2>
+[trx_blogger cat="portfolio-hover-4-columns" count="8" offset="9" orderby="date" order="desc" style="portfolio4" hover="circle effect10" hover_dir="bottom_to_top" info="yes" descr="100"]
+<h2>Hover "Circle Effect 11"</h2>
+[trx_blogger cat="portfolio-hover-4-columns" count="8" offset="10" orderby="date" order="desc" style="portfolio4" hover="circle effect11" hover_dir="bottom_to_top" info="yes" descr="100"]
+<h2>Hover "Circle Effect 12"</h2>
+[trx_blogger cat="portfolio-hover-4-columns" count="8" offset="0" orderby="date" order="asc" style="portfolio4" hover="circle effect12" hover_dir="right_to_left" info="yes" descr="100"]
+<h2>Hover "Circle Effect 13"</h2>
+[trx_blogger cat="portfolio-hover-4-columns" count="8" offset="1" orderby="date" order="asc" style="portfolio4" hover="circle effect13" hover_dir="from_left_and_right" info="yes" descr="100"]
+<h2>Hover "Circle Effect 14"</h2>
+[trx_blogger cat="portfolio-hover-4-columns" count="8" offset="2" orderby="date" order="asc" style="portfolio4" hover="circle effect14" hover_dir="bottom_to_top" info="yes" descr="100"]
+<h2>Hover "Circle Effect 15"</h2>
+[trx_blogger cat="portfolio-hover-4-columns" count="8" offset="3" orderby="date" order="asc" style="portfolio4" hover="circle effect15" hover_dir="left_to_right" info="yes" descr="100"]
+<h2>Hover "Circle Effect 16"</h2>
+[trx_blogger cat="portfolio-hover-4-columns" count="8" offset="4" orderby="date" order="asc" style="portfolio4" hover="circle effect16" hover_dir="left_to_right" info="yes" descr="100"]
+<h2>Hover "Circle Effect 17"</h2>
+[trx_blogger cat="portfolio-hover-4-columns" count="8" offset="5" orderby="date" order="asc" style="portfolio4" hover="circle effect17" info="yes" descr="100"]
+<h2>Hover "Circle Effect 18"</h2>
+[trx_blogger cat="portfolio-hover-4-columns" count="8" offset="6" orderby="date" order="asc" style="portfolio4" hover="circle effect18" hover_dir="left_to_right" info="yes" descr="100"]
+<h2>Hover "Circle Effect 19"</h2>
+[trx_blogger cat="portfolio-hover-4-columns" count="8" offset="7" orderby="date" order="asc" style="portfolio4" hover="circle effect19" info="yes" descr="100"]
+<h2>Hover "Circle Effect 20"</h2>
+[trx_blogger cat="portfolio-hover-4-columns" count="8" offset="8" orderby="date" order="asc" style="portfolio4" hover="circle effect20" hover_dir="bottom_to_top" info="yes" descr="100"]

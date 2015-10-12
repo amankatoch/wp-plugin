@@ -1,0 +1,71 @@
+[trx_columns count="4"]
+[trx_column_item]
+[trx_title type="4" align="center" style="iconed" icon="icon-skype-1" size="medium" position="top"]Lorem ipsum dolor sit amet, consectetur[/trx_title]
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Reiciendis, quo iure ut corrupti dicta adipisci tenetur. Facere, porro, expedita repellat perspiciatis impedit hic aliquid labore.
+[/trx_column_item]
+[trx_column_item]
+[trx_title type="4" align="center" style="iconed" icon="icon-trophy" size="medium" position="top"]Maecenas pharetra elit velit. Donec egestas massa[/trx_title]
+Cras sapien mauris, volutpat sed condimentum ac, consequat sed metus. Pellentesque dapibus lorem sit amet sapien rhoncus vehicula non vitae elit. Pellentesque rhoncus ipsum augue.
+[/trx_column_item]
+[trx_column_item]
+[trx_title type="4" align="center" style="iconed" icon="icon-chart-pie" size="medium" position="top"]Nunc feugiat arcu a vestibulum bibendum[/trx_title]
+Maecenas pharetra elit velit, ut elementum nisl varius ut. Donec egestas massa eget est interdum, non faucibus turpis gravida. Nunc feugiat arcu a vestibulum bibendum.
+[/trx_column_item]
+[trx_column_item]
+[trx_title type="4" align="center" style="iconed" icon="icon-camera" size="medium" position="top"]Sed ac ante sit amet metus sollicitudin laoreet[/trx_title]
+Praesent ut velit pretium, gravida mi quis, ornare odio. Duis placerat, mauris et scelerisque tempor, erat quam lobortis tortor, pellentesque sodales tellus dui at augue.
+[/trx_column_item]
+[/trx_columns]
+
+[trx_testimonials style="2" height="220" top="50"]
+[trx_testimonials_item name="Brandoncarr" position="Purchaser" email="wpspace.johnsnow@gmail.com"]
+Buy with confidence. This theme is top quality. Find an issue? Worry not, because the support that this team provides is amazing! I would definitely recommend this theme for your next project or any other theme from ThemeREX for that matter. Thanks Irvin!
+[/trx_testimonials_item]
+[trx_testimonials_item name="Green2005" position="Purchaser" email="wpspace.marthastewart@gmail.com"]
+Best purchase i made in envato. Great Theme!
+[/trx_testimonials_item]
+[trx_testimonials_item name="Waldo Orlandini" position="Purchaser"]
+Hi! I’ve just check and it work perfectly! Thank you very much for your kindness and for all the work you’ve done to solve this issue. I’ll write about your fantastic support wherever i can. Thanks again.
+[/trx_testimonials_item]
+[trx_testimonials_item name="dominikhopko.com" position="Purchaser"]
+Hello All, Firstly, thank you so much for the great template! I have spent around 10hrs looking for a good template and yours was the best!
+[/trx_testimonials_item]
+[trx_testimonials_item name="Giggles666" position="Purchaser"]
+Awesome, thanks for looking out for us ThemeREX. Money well spent.
+[/trx_testimonials_item]
+[trx_testimonials_item name="Arnfinn Nilsen" position="Purchaser"]
+I’m preparing to change the theme on my photography/blog site to Puzzles. It’s the most appealing, creative and well thought out themes I have found on ThemeForest. I really like it’s responsiveness through all devices. Well done.
+[/trx_testimonials_item]
+[trx_testimonials_item name="Revilotmalk" position="Purchaser"]
+Great theme &amp; fast Support.
+[/trx_testimonials_item]
+[/trx_testimonials]
+
+[trx_columns count="3" top="50" bottom="50"]
+[trx_column_item span="2"]
+
+[trx_section align="left" columns="1_2" bottom="30"]
+
+[trx_skills type="pie"][trx_skills_item level="81%" title="Web design"][/trx_skills]
+
+[/trx_section]
+<h2>Lorem ipsum</h2>
+Quisque tortor sem, viverra a dui sit amet, ultricies sagittis tellus. Mauris non sollicitudin augue. Donec tempus elit id est iaculis rhoncus. Aenean ut nulla at purus interdum fringilla nec nec enim. Nullam ultrices non magna eu consequat. Sed ut mi et tortor condimentum congue quis a tellus. Nulla in tincidunt mi, eu condimentum turpis. Sed metus mi, lobortis ut auctor in, commodo eget est. Nam commodo dapibus eros pharetra scelerisque. Cras eleifend fermentum enim, non vulputate ipsum elementum at. Phasellus non turpis vel ipsum feugiat pellentesque. Ut lacinia non lorem sed fermentum. Donec ullamcorper ut dolor et fermentum. Nulla facilisi. Proin molestie risus id dictum varius. Curabitur pretium, massa sed convallis lobortis, justo leo facilisis lacus, quis rhoncus tortor nulla pretium sapien. Morbi id velit at augue sagittis sodales id eget lacus. Cras et felis ac arcu auctor rhoncus. Pellentesque ac lectus erat. Sed ac ante sit amet metus sollicitudin laoreet. Praesent ut velit pretium, gravida mi quis, ornare odio. Duis placerat, mauris et scelerisque tempor, erat quam lobortis tortor, pellentesque sodales tellus dui at augue.
+
+[/trx_column_item]
+[trx_column_item]
+<h2>Lorem ipsum dolor</h2>
+[trx_skills maximum="100" type="bar" dir="horizontal" layout="rows" count="4"]
+[trx_skills_item title="English" level="98%"]
+[trx_skills_item title="Spanish" level="66%"]
+[trx_skills_item title="French" level="87%"]
+[trx_skills_item title="Latin" level="82%"]
+[trx_skills_item title="Other" level="46%"]
+[/trx_skills]
+
+[/trx_column_item]
+[/trx_columns]
+
+[trx_line style="shadow" bottom="30"]
+
+[trx_blogger cat="5" count="5" visible="5" offset="0" orderby="date" order="desc" style="date" dir="horizontal" descr="0" info="yes"]

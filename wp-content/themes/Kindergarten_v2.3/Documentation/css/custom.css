@@ -1,0 +1,35 @@
+/*Custom fixes to basic layout*/
+
+/*#main-wrapper {
+    width: 100%;
+}
+#logo {
+    display: none;
+}
+#doc-nav {
+    height: 100%;*/
+}.attention {
+     background: none repeat scroll 0 0 #ccffcc;
+     border: 1px solid #9cf89c;
+     color: #d18d00;
+     padding: 2px;
+ }
+.shortcode-link {
+    display: inline-block;
+}
+.shortcode-link a {
+    background: none repeat scroll 0 0 #00abeb;
+    border-radius: 3px;
+    color: #fff;
+    float: left;
+    margin-bottom: 10px;
+    margin-right: 10px;
+    padding: 10px;
+    text-decoration: none;
+    -webkit-transition:all .7s ease;
+    -moz-transition:all .7s ease;
+    transition:all .7s ease;
+}
+.shortcode-link a:hover{
+    background: #00BDFF;
+}

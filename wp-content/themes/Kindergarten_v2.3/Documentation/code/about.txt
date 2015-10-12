@@ -1,0 +1,73 @@
+[trx_columns count="2"]
+[trx_column_item]
+
+[trx_image url="http://kinder.themerex.net/wp-content/uploads/2014/05/11.jpg"]
+
+[/trx_column_item]
+[trx_column_item]
+<div>
+<h1>Few words about Kindergarten</h1>
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.
+
+</div>
+[/trx_column_item]
+[/trx_columns]
+
+[trx_title type="2" style="regular" align="center" top="50" bottom="30"]Meet Our Tutors[/trx_title]
+
+[trx_team count="4"]
+[trx_team_item name="Matthew Perry" position="principal" photo="http://kinder.themerex.net/wp-content/uploads/2014/06/stuff-1.jpg" socials="facebook=#|pinterest=#|twitter=#"]
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+[/trx_team_item]
+[trx_team_item name="David Schwimmer" position="mentor" photo="http://kinder.themerex.net/wp-content/uploads/2014/06/stuff-2.jpg" socials="facebook=#|twitter=#|gplus=#|dribbble=#"]
+Aliquam erat volutpat. Nulla pulvinar scelerisque dui, ac elementum dolor sagittis eget.
+[/trx_team_item]
+[trx_team_item name="Lisa Kudrow" position="teacher" photo="http://kinder.themerex.net/wp-content/uploads/2014/06/stuff-3.jpg" socials="facebook=#|twitter=#|rss=#"]
+Cras sodales, justo et rutrum consequat, elit magna semper augue, quis viverra velit orci quis diam. Sed vestibulum porta tellus, sed cursus velit laoreet non.
+[/trx_team_item]
+[trx_team_item name="Matt LeBlanc" position="teacher" photo="http://kinder.themerex.net/wp-content/uploads/2014/06/stuff-4.jpg" socials="facebook=#|twitter=#|dribbble=#"]
+Donec vestibulum elementum massa id tempor. Cras malesuada sapien mauris, quis tincidunt metus euismod sit amet. Pellentesque tempor volutpat leo, eget bibendum risus mattis et
+[/trx_team_item]
+[/trx_team]
+
+[trx_line style="shadow" top="30" bottom="30"]
+
+[trx_columns count="3"]
+[trx_column_item span="2"]
+
+[trx_skills type="arc" title="Web skills"]
+[trx_skills_item level="95" title="JavaScript"]
+[trx_skills_item level="90" title="CSS3"]
+[trx_skills_item level="80" title="HTML5"]
+[trx_skills_item level="53" title="PHP"]
+[trx_skills_item level="45" title="MySQL"]
+[/trx_skills]
+[/trx_column_item]
+[trx_column_item]
+<h2>Our language skills</h2>
+[trx_skills maximum="100" type="bar" dir="horizontal" layout="rows" count="5"]
+[trx_skills_item title="English" level="98%"]
+[trx_skills_item title="Spanish" level="66%"]
+[trx_skills_item title="French" level="87%"]
+[trx_skills_item title="Latin" level="82%"]
+[trx_skills_item title="Others" level="76%"]
+[/trx_skills]
+[/trx_column_item]
+[/trx_columns]
+
+[trx_line style="shadow" top="20" bottom="30"]
+<h2 style="text-align: center;">Services</h2>
+[trx_skills type="counter" layout="columns" count="5" style="2"]
+
+[trx_skills_item level="68%" title="Clean Design"]
+
+[trx_skills_item level="72%" title="Incredible Flexible"]
+
+[trx_skills_item level="98%" title="Responsive"]
+
+[trx_skills_item level="45%" title="SEO Ready"]
+
+[trx_skills_item level="78%" title="Free support"]
+
+[/trx_skills]

@@ -1,0 +1,54 @@
+[trx_columns count="3"]
+[trx_column_item span="2"]
+<h2>Got Questions?</h2>
+Equidem laboramus voluptaria vix no, vel nulla disputationi delicatissimi at, solet dignissim nam in. Simul efficiendi interpretaris eu nec. An graeco offendit eos, sea an graece platonem democritum. Has nobis eirmod in, voluptua definiebas eu sea. Possit docendi comprehensam quo ea, quo no epicurei intellegebat. Essent iriure nec eu.
+
+[trx_toggles style="2" large="on" counter="on"]
+[trx_toggles_item title="Cras sodales malesuada ultrices" open="yes"]
+Sed ut ornare leo. Cras sed porttitor lacus. Donec porta diam nunc, vel mollis enim tempus sed. Sed commodo tincidunt justo dictum ornare. Vivamus varius malesuada diam, congue congue sem suscipit eleifend. Vestibulum sodales porta sapien vitae ultrices.
+[/trx_toggles_item]
+[trx_toggles_item title="Praesent adipiscing velit et dolor egestas"]
+Nunc hendrerit ullamcorper lectus, quis mollis nisl tincidunt non. Duis aliquet dictum lobortis. Cras sodales orci a lectus molestie, sed semper eros laoreet. Sed facilisis, libero at pellentesque molestie, quam tortor auctor tortor, in varius mauris massa nec dui. Proin convallis magna at mollis ultricies. Mauris ultrices mi et elit consectetur pharetra.
+[/trx_toggles_item]
+[trx_toggles_item title="Maecenas semper porta molestie"]
+Vestibulum non felis ut sem blandit porta a eget felis. Duis adipiscing felis enim, sit amet fermentum turpis vulputate at. Duis tincidunt odio elit, sit amet placerat mi aliquam dapibus.
+[/trx_toggles_item]
+[trx_toggles_item title="Phasellus ultricies consectetur erat"]
+Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Integer blandit posuere ultrices. Sed ut purus ut nunc pretium fermentum sit amet a erat. Sed sed gravida nisi, ut blandit mi. Aliquam quis vehicula tellus.
+[/trx_toggles_item]
+[trx_toggles_item title="Sed semper sem quis ligula"]
+Proin quis commodo ligula, vitae vulputate sapien. Nam fermentum nisi eget est mattis, vitae interdum leo suscipit. Pellentesque at adipiscing ipsum. Cras venenatis commodo magna ac ornare.
+[/trx_toggles_item]
+[/trx_toggles]
+
+[trx_contact_form title="Didn't find the answer?"]
+
+[/trx_column_item]
+[trx_column_item]
+
+[trx_title type="3" bottom='20']Category[/trx_title]
+
+[trx_list style="arrows"]
+[trx_list_item link="#"]All[/trx_list_item]
+[trx_list_item link="#"]Configuration[/trx_list_item]
+[trx_list_item link="#"]Finance[/trx_list_item]
+[trx_list_item link="#"]Installation[/trx_list_item]
+[trx_list_item link="#"]Management[/trx_list_item]
+[trx_list_item link="#"]Policies[/trx_list_item]
+[trx_list_item link="#"]Troubleshooting[/trx_list_item]
+[/trx_list]
+
+[trx_line style="shadow" top="40" bottom="20"]
+
+[trx_title type="3" bottom="30"]Video tutorials[/trx_title]
+
+[trx_video url="http://www.youtube.com/embed/636Dp8eHWnM" autoplay="off" title="on" image="http://kinder.themerex.net/wp-content/uploads/2014/02/video_post.jpg" height="197" bottom="30"]
+
+[trx_image url="http://kinder.themerex.net/wp-content/uploads/2014/03/acrobat.png" width="76" height="76" align="left" right="10"]
+
+<a href="#">Download our brochure</a>
+
+[/trx_column_item]
+[/trx_columns]
+
+&nbsp;

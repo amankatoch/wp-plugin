@@ -1,0 +1,26 @@
+body .displet-default-styles .displet-select:after {
+    content: "" !important;
+    position: absolute !important;
+    top: 50% !important;
+    right: 5px !important;
+    display: block !important;
+    margin-top: -10px;
+    width: 17px !important;
+    height: 20px !important;
+    background: url('images/sprite.png') -125px -25px no-repeat !important;
+    pointer-events: none !important;
+}
+
+body .displet-default-styles .displet-select select{
+    -moz-appearance: none !important;
+    -webkit-appearance: none !important;
+    text-indent: 0.01px !important;
+    text-overflow: '' !important;
+}
+
+/*target Internet Explorer 9 and Internet Explorer 10:*/
+@media screen and (min-width:0\0) {
+    body .displet-default-styles .displet-select:after{
+        display: none !important;
+    }
+}

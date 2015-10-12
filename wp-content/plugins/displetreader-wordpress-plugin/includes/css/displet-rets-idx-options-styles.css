@@ -1,0 +1,18 @@
+#displet-rets-idx-options label.displet-error{
+	color: #c00;
+}
+
+#displet-rets-idx-options input[type="text"].displet-error{
+	border-color: #c00;
+}
+
+#displet-rets-idx-options .displet-photo-display{
+	margin: 0px 0px 5px 1px;
+	width: 100px;
+	height: 100px;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	cursor: pointer;
+}
+

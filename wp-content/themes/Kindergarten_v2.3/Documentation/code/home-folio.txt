@@ -1,0 +1,73 @@
+<h2 style="text-align: center;">Meet Our Stuff</h2>
+[trx_team count="4"]
+[trx_team_item name="Matthew Perry" position="principal" photo="http://kinder.themerex.net/wp-content/uploads/2014/06/stuff-1.jpg" socials="facebook=#|pinterest=#|twitter=#"]
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+[/trx_team_item]
+[trx_team_item name="David Schwimmer" position="mentor" photo="http://kinder.themerex.net/wp-content/uploads/2014/06/stuff-2.jpg" socials="facebook=#|twitter=#|gplus=#|dribbble=#"]
+Aliquam erat volutpat. Nulla pulvinar scelerisque dui, ac elementum dolor sagittis eget.
+[/trx_team_item]
+[trx_team_item name="Lisa Kudrow" position="teacher" photo="http://kinder.themerex.net/wp-content/uploads/2014/06/stuff-3.jpg" socials="facebook=#|twitter=#|rss=#"]
+Cras sodales, justo et rutrum consequat, elit magna semper augue, quis viverra velit orci quis diam. Sed vestibulum porta tellus, sed cursus velit laoreet non.
+[/trx_team_item]
+[trx_team_item name="Matt LeBlanc" position="teacher" photo="http://kinder.themerex.net/wp-content/uploads/2014/06/stuff-4.jpg" socials="facebook=#|twitter=#|dribbble=#"]
+Donec vestibulum elementum massa id tempor. Cras malesuada sapien mauris, quis tincidunt metus euismod sit amet. Pellentesque tempor volutpat leo, eget bibendum risus mattis et
+[/trx_team_item]
+[/trx_team]
+
+[trx_line style="shadow" top="10" bottom="0"]
+
+[trx_gap]
+<h2 style="text-align: center;">Portfolio</h2>
+[trx_blogger cat="portfolio-grid" count="-1" orderby="date" order="desc" style="portfolio4" filters="tags" info="yes" descr="200"]
+
+[/trx_gap]
+
+[trx_columns count="3"]
+
+[trx_column_item span="2"]
+[trx_skills type="arc" title="Web skills"]
+[trx_skills_item level="95" title="JavaScript"]
+[trx_skills_item level="90" title="CSS3"]
+[trx_skills_item level="80" title="HTML5"]
+[trx_skills_item level="53" title="PHP"]
+[trx_skills_item level="45" title="MySQL"]
+[/trx_skills]
+[/trx_column_item]
+
+[trx_column_item]
+<h2>Our language skills</h2>
+[trx_skills maximum="100" type="bar" dir="horizontal" layout="rows" count="5"]
+[trx_skills_item title="English" level="98%"]
+[trx_skills_item title="Spanish" level="66%"]
+[trx_skills_item title="French" level="87%"]
+[trx_skills_item title="Latin" level="82%"]
+[trx_skills_item title="Others" level="76%"]
+[/trx_skills]
+[/trx_column_item]
+
+[/trx_columns]
+
+[trx_line style="shadow" top="20" bottom="30"]
+
+[trx_columns count="3"]
+
+[trx_column_item span="2"]
+<h2>Some of our clients</h2>
+[trx_section scroll="yes" dir="horizontal" height="120" controls="yes"] [trx_image url="http://kinder.themerex.net/wp-content/uploads/2014/02/partner1.png" align="left" width="120" height="120" right="35"] [trx_image url="http://kinder.themerex.net/wp-content/uploads/2014/02/partner2.png" align="left" width="120" height="120" right="35"] [trx_image url="http://kinder.themerex.net/wp-content/uploads/2014/02/partner3.png" align="left" width="120" height="120" right="35"] [trx_image url="http://kinder.themerex.net/wp-content/uploads/2014/02/partner4.png" align="left" width="120" height="120" right="35"] [trx_image url="http://kinder.themerex.net/wp-content/uploads/2014/02/partner5.png" align="left" width="120" height="120" right="35"] [trx_image url="http://kinder.themerex.net/wp-content/uploads/2014/02/partner6.png" align="left" width="120" height="120" right="35"] [trx_image url="http://kinder.themerex.net/wp-content/uploads/2014/02/partner7.png" align="left" width="120" height="120" right="35"] [trx_image url="http://kinder.themerex.net/wp-content/uploads/2014/02/partner8.png" align="left" width="120" height="120" right="35"] [trx_image url="http://kinder.themerex.net/wp-content/uploads/2014/02/partner9.png" align="left" width="120" height="120" right="35"] [trx_image url="http://kinder.themerex.net/wp-content/uploads/2014/02/partner10.png" align="left" width="120" height="120" right="35"] [trx_image url="http://kinder.themerex.net/wp-content/uploads/2014/02/partner11.png" align="left" width="120" height="120" right="35"] [trx_image url="http://kinder.themerex.net/wp-content/uploads/2014/02/partner12.png" align="left" width="120" height="120" right="35"] [trx_image url="http://kinder.themerex.net/wp-content/uploads/2014/02/partner13.png" align="left" width="120" height="120" right="35"] [trx_image url="http://kinder.themerex.net/wp-content/uploads/2014/02/partner14.png" align="left" width="120" height="120" right="35"] [trx_image url="http://kinder.themerex.net/wp-content/uploads/2014/02/partner15.png" align="left" width="120" height="120" right="35"] [trx_image url="http://kinder.themerex.net/wp-content/uploads/2014/02/partner16.png" align="left" width="120" height="120" right="35"] [trx_image url="http://kinder.themerex.net/wp-content/uploads/2014/02/partner17.png" align="left" width="120" height="120" right="35"] [trx_image url="http://kinder.themerex.net/wp-content/uploads/2014/02/partner18.png" align="left" width="120" height="120" right="35"] [trx_image url="http://kinder.themerex.net/wp-content/uploads/2014/02/partner19.png" align="left" width="120" height="120" right="35"] [trx_image url="http://kinder.themerex.net/wp-content/uploads/2014/02/partner20.png" align="left" width="120" height="120" right="35"] [trx_image url="http://kinder.themerex.net/wp-content/uploads/2014/02/partner21.png" align="left" width="120" height="120" right="35"] [trx_image url="http://kinder.themerex.net/wp-content/uploads/2014/02/partner22.png" align="left" width="120" height="120" right="35"]
+[/trx_section]
+
+[/trx_column_item]
+
+[trx_column_item]
+[trx_testimonials style="1" title="Testimonials" height="180"]
+[trx_testimonials_item name="Brandoncarr" position="Purchaser" email="wpspace.johnsnow@gmail.com"] Buy with confidence. This theme is top quality. Thanks Irvin! [/trx_testimonials_item]
+[trx_testimonials_item name="Green2005" position="Purchaser" email="wpspace.marthastewart@gmail.com"] Best purchase i made in envato. Great Theme! [/trx_testimonials_item]
+[trx_testimonials_item name="Waldo Orlandini" position="Purchaser"] Hi! I’ve just check and it work perfectly! Thank you very much. [/trx_testimonials_item]
+[trx_testimonials_item name="dominikhopko.com" position="Purchaser"] Hello All. Firstly, thank you so much for the great template! I have spent around 10hrs looking for a good template and yours was the best! [/trx_testimonials_item]
+[trx_testimonials_item name="Giggles666" position="Purchaser"] Awesome, thanks for looking out for us ThemeREX. Money well spent. [/trx_testimonials_item]
+[trx_testimonials_item name="Arnfinn Nilsen" position="Purchaser"] It’s the most appealing, creative and well thought out themes I have found on ThemeForest. Well done. [/trx_testimonials_item]
+[trx_testimonials_item name="Revilotmalk" position="Purchaser"] Great theme &amp; fast Support. [/trx_testimonials_item]
+[/trx_testimonials]
+[/trx_column_item]
+
+[/trx_columns]

@@ -1,0 +1,12 @@
+<div id="displet-listing" class="displet-admin displet-widget-config-dialog">
+	<form>
+		<?php
+			global $displetretsidx_option;
+			$model = array(
+				'options' => $displetretsidx_option,
+				'field_options' => DispletRetsIdxOptionsController::get_option('fields')
+			);
+			echo DispletRetsIdxTemplatesController::get_admin_template('criteria.php', $model);
+		?>
+	</form>
+</div>

@@ -1,0 +1,124 @@
+[trx_parallax gap="no" style="dark" dir="up" color="#000000" image="http://kinder.themerex.net/wp-content/uploads/2014/04/parallax1.jpg"]
+
+[trx_content top="50" bottom="50"]
+
+[trx_section columns="1_2" align="right"]
+<h1 style="text-align: center;">What our
+<strong> happy</strong> parents say</h1>
+[trx_quote title="Steve Jobs" top="50" bottom="50"]Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work. And the only way to do great work is to love what you do.[/trx_quote]
+
+[/trx_section]
+
+[/trx_content]
+
+[/trx_parallax]
+
+[trx_parallax gap="no" style="dark"]
+
+[trx_block color="#ffffff" bg_color="#f4c119" bg_image="http://kinder.themerex.net/wp-content/uploads/2014/06/texture_2.png" style="opacity:0.9"]
+[trx_content class="user_header"]
+[trx_title type="2" align="center" style="regular"]What We Offer[/trx_title]
+[trx_columns count="4"]
+[trx_column_item]
+[trx_icon align="center" icon="icon-diamond" size="70" weight="300"]
+[trx_section style="font-size:18px; font-weight:400; text-align:center"]Professional Teachers[/trx_section]
+[trx_section style="font-size:14px; font-weight:300; text-align:center"]Aliquam erat volutpat[/trx_section]
+[/trx_column_item]
+[trx_column_item]
+[trx_icon align="center" icon="icon-heart" size="70" weight="300"]
+[trx_section style="font-size:18px; font-weight:400; text-align:center"]Our Approach[/trx_section]
+[trx_section style="font-size:14px; font-weight:300; text-align:center"]Dipisicing elit[/trx_section]
+[/trx_column_item]
+[trx_column_item]
+[trx_icon align="center" icon="icon-star-empty" size="70" weight="300"]
+[trx_section style="font-size:18px; font-weight:400; text-align:center"]Education Programm[/trx_section]
+[trx_section style="font-size:14px; font-weight:300; text-align:center"]Dolor sit amet[/trx_section]
+[/trx_column_item]
+[trx_column_item]
+[trx_icon align="center" icon="icon-doc-1" size="70" weight="300"]
+[trx_section style="font-size:18px; font-weight:400; text-align:center"]Latest Events[/trx_section]
+[trx_section style="font-size:14px; font-weight:300; text-align:center"]Cras id convallis[/trx_section]
+[/trx_column_item]
+[/trx_columns]
+[/trx_content]
+[/trx_block]
+
+[trx_content]
+
+[trx_title type="1" align="center" style="regular" top="200" bottom="200"]Create unlimited number
+of <strong>Parallax</strong> backgrounds![/trx_title]
+
+[/trx_content]
+
+[/trx_parallax]
+
+[trx_parallax gap="no" style="light" dir="down" speed="0.2" color="#f9f9f9" image="http://kinder.themerex.net/wp-content/uploads/2014/04/parallax4.jpg"]
+
+[trx_content top="50" bottom="50"]
+
+[trx_columns count="2"]
+
+[trx_column_item]
+<h2>Theme is easily adaptable
+to any mobile device</h2>
+[trx_title type="3" style="iconed" image="lens_icon_retina" position="left"]Retina Ready[/trx_title]
+
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit.
+
+[trx_block top="30"]
+
+[trx_title type="3" style="iconed" image="hand_icon_retina" position="left"]Tablet friendly[/trx_title]
+
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.<img title="More..." src="http://kinder.themerex.net/wp-includes/js/tinymce/plugins/wordpress/img/trans.gif" alt="" />
+
+[/trx_block]
+
+[/trx_column_item]
+
+[/trx_columns]
+
+[/trx_content]
+
+[/trx_parallax]
+
+[trx_parallax gap="no" style="dark"]
+
+[trx_content top="50" bottom="50"]
+
+[trx_section align="center" columns="1_2"]
+<h1>What our
+<strong> happy</strong> customers say</h1>
+[trx_testimonials style="1" controls="off" height="180"]
+[trx_testimonials_item name="Brandoncarr" position="Purchaser" email="wpspace.johnsnow@gmail.com"]
+Buy with confidence. This theme is top quality.
+Thanks Irvin!
+[/trx_testimonials_item]
+[trx_testimonials_item name="Green2005" position="Purchaser" email="wpspace.marthastewart@gmail.com"]
+Best purchase i made in envato.
+Great Theme!
+[/trx_testimonials_item]
+[trx_testimonials_item name="Waldo Orlandini" position="Purchaser"]
+Hi! I’ve just check and it work perfectly!
+Thank you very much.
+[/trx_testimonials_item]
+[trx_testimonials_item name="dominikhopko.com" position="Purchaser"]
+Hello All. Firstly, thank you so much for the great template! I have spent around 10hrs looking for a good template and yours was the best!
+[/trx_testimonials_item]
+[trx_testimonials_item name="Giggles666" position="Purchaser"]
+Awesome, thanks for looking out for us ThemeREX.
+Money well spent.
+[/trx_testimonials_item]
+[trx_testimonials_item name="Arnfinn Nilsen" position="Purchaser"]
+It’s the most appealing, creative and well thought out themes I have found on ThemeForest.
+Well done.
+[/trx_testimonials_item]
+[trx_testimonials_item name="Revilotmalk" position="Purchaser"]
+Great theme &amp; fast Support.
+[/trx_testimonials_item]
+[/trx_testimonials]
+
+[/trx_section]
+
+[/trx_content]
+
+[/trx_parallax]

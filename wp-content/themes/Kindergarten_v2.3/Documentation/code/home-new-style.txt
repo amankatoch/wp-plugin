@@ -1,0 +1,41 @@
+[trx_slider engine="swiper" cat="news-demo" count="10" controls="yes" pagination="full" titles="slide" descriptions="0" links="yes" interval="5000" width="550" height="310" bottom="50"][/trx_slider]
+
+[trx_line style="shadow" top="10" bottom="20"]
+
+[trx_columns count="2"]
+[trx_column_item]
+[trx_tabs style="2" scroll="no" tab_names="Popular|Recent|Commented" bottom="0"]
+[trx_tab]
+[trx_blogger cat="news-demo" count="5" visible="5" offset="0" orderby="views" order="desc" style="regular" dir="vertical" rating="yes" info="yes" descr="0"]
+[/trx_tab]
+[trx_tab]
+[trx_blogger cat="news-demo" count="5" visible="5" offset="0" orderby="date" order="desc" style="regular" dir="vertical" rating="yes" info="yes" descr="0"]
+[/trx_tab]
+[trx_tab]
+[trx_blogger cat="news-demo" count="5" visible="5" offset="0" orderby="comments" order="desc" style="regular" dir="vertical" rating="yes" info="yes" descr="0"]
+[/trx_tab]
+[/trx_tabs]
+
+[trx_line style="solid" top="0" bottom="20"]
+<h2>Timeline</h2>
+[trx_blogger cat="5" count="12" offset="0" scroll="yes" controls="yes" orderby="date" order="desc" style="date" location="default" dir="vertical" rating="no" descr="0" height="320"]
+
+[/trx_column_item]
+[trx_column_item]
+[trx_blogger cat="122" count="2" visible="2" offset="0" scroll="no" controls="no" orderby="date" order="asc" style="image_large" dir="vertical" rating="yes" info="yes" descr="150"]
+[/trx_column_item]
+[/trx_columns]
+
+[trx_line style="shadow" top="40" bottom="0"]
+<h2>Recent news</h2>
+[trx_blogger cat="news-demo" count="3" offset="0" orderby="date" order="desc" style="related" rating="yes" dir="horizontal" descr="100"]
+
+[trx_line style="shadow" top="20" bottom="0"]
+<h2>Top news</h2>
+[trx_blogger cat="news-demo" count="3" orderby="views" order="desc" style="related" rating="yes" dir="horizontal" descr="100"]
+
+[trx_line style="shadow" top="20" bottom="0"]
+<h2>Recommended posts</h2>
+[trx_blogger cat="news-demo" count="3" orderby="random" style="related" rating="yes" dir="horizontal" descr="100"]
+
+&nbsp;

@@ -1,0 +1,74 @@
+<h1 style="text-align: center;">Theme is easily adaptable
+to any mobile device</h1>
+[trx_section align="left" columns="1_2" bottom="30"]
+
+[trx_slider engine="swiper" border="dark" controls="yes" pagination="yes" links="yes"]
+[trx_slider_item src="http://kinder.themerex.net/wp-content/uploads/2014/02/slide3.jpg"]
+[trx_slider_item src="http://kinder.themerex.net/wp-content/uploads/2014/02/slide2.jpg"]
+[trx_slider_item src="http://kinder.themerex.net/wp-content/uploads/2014/02/portfolio16x9_13.jpg"]
+[/trx_slider]
+
+[/trx_section]
+
+[trx_title type="2" style="iconed" image="hand_icon_retina" size="large" position="left"]Tablet friendly[/trx_title]
+
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, iste corporis maiores ipsum quibusdam suscipit laboriosam impedit architecto iure culpa provident quasi eveniet similique quisquam a natus quo mollitia nihil modi illo eius ratione at voluptatibus alias unde quas error enim doloremque excepturi accusantium! Repellat, libero, quos, vero fugiat at quasi ab eos et explicabo pariatur numquam ipsum enim amet laborum sint quisquam nisi neque expedita eaque voluptatum suscipit beatae nobis commodi quidem quaerat. Explicabo, voluptatum, officiis, unde omnis asperiores enim id temporibus eos repudiandae sint quibusdam magnam beatae quos optio est deserunt quo vero fugit hic labore voluptatibus recusandae ipsum ad rem corporis laboriosam accusantium minus totam laborum dolore magni soluta voluptatem suscipit! Mollitia, dolorum, qui natus pariatur debitis reiciendis suscipit hic minus tempore aspernatur adipisci nobis sed quaerat! Proin molestie risus id dictum varius. Curabitur pretium, massa sed convallis lobortis, justo leo facilisis lacus, quis rhoncus tortor nulla pretium sapien. Morbi id velit at augue sagittis sodales id eget lacus. Cras et felis ac arcu auctor rhoncus. Pellentesque ac lectus erat.
+
+[trx_line style="shadow" bottom="30"]
+
+[trx_blogger cat="5" count="4" visible="4" offset="0" orderby="date" order="desc" style="related" dir="horizontal" rating="yes" descr="100" info="yes"]
+
+[trx_line style="shadow" bottom="30"]
+
+[trx_columns count="3"]
+[trx_column_item span="2"]
+
+[trx_tabs initial="1" scroll="no" tab_names="Web Design|Graphics|Coding" top="2"]
+
+[trx_tab]
+[trx_blogger cat="5" count="5" visible="5" offset="1" scroll="yes" orderby="date" order="desc" style="image_tiny" rating="yes" info="no" dir="vertical" descr="200" height="230"]
+[/trx_tab]
+
+[trx_tab]
+[trx_blogger cat="portfolio-text" count="5" visible="5" offset="0" scroll="yes" orderby="date" order="asc" style="image_tiny" rating="yes" info="no" dir="vertical" descr="200" height="230"]
+[/trx_tab]
+
+[trx_tab]
+[trx_blogger cat="portfolio-hover-4-columns" count="5" visible="5" offset="5" scroll="yes" orderby="date" order="desc" style="image_tiny" rating="yes" info="no" dir="vertical" descr="200" height="230"]
+[/trx_tab]
+
+[/trx_tabs]
+[/trx_column_item]
+[trx_column_item]
+[trx_testimonials style="1" title="Testimonials" height="180" bottom="30"]
+[trx_testimonials_item name="Brandoncarr" position="Purchaser" email="wpspace.johnsnow@gmail.com"]
+Buy with confidence. This theme is top quality.
+Thanks Irvin!
+[/trx_testimonials_item]
+[trx_testimonials_item name="Green2005" position="Purchaser" email="wpspace.marthastewart@gmail.com"]
+Best purchase i made in envato.
+Great Theme!
+[/trx_testimonials_item]
+[trx_testimonials_item name="Waldo Orlandini" position="Purchaser"]
+Hi! I’ve just check and it work perfectly!
+Thank you very much.
+[/trx_testimonials_item]
+[trx_testimonials_item name="dominikhopko.com" position="Purchaser"]
+Hello All. Firstly, thank you so much for the great template! I have spent around 10hrs looking for a good template and yours was the best!
+[/trx_testimonials_item]
+[trx_testimonials_item name="Giggles666" position="Purchaser"]
+Awesome, thanks for looking out for us ThemeREX.
+Money well spent.
+[/trx_testimonials_item]
+[trx_testimonials_item name="Arnfinn Nilsen" position="Purchaser"]
+It’s the most appealing, creative and well thought out themes I have found on ThemeForest.
+Well done.
+[/trx_testimonials_item]
+[trx_testimonials_item name="Revilotmalk" position="Purchaser"]
+Great theme &amp; fast Support.
+[/trx_testimonials_item]
+[/trx_testimonials]
+[/trx_column_item]
+[/trx_columns]
+
+&nbsp;

@@ -1,0 +1,136 @@
+[trx_blogger ids="109" style="excerpt" descr="0" location="default"]
+
+[trx_line style="shadow" top="10" bottom="20"]
+<h2>Recommended posts</h2>
+[trx_blogger cat="5" count="4" visible="4" offset="1" scroll="no" orderby="date" order="desc" style="related" location="default" dir="horizontal" rating="no" descr="100"]
+
+[trx_line style="shadow" top="10" bottom="20"]
+
+[trx_columns count="3"]
+
+[trx_column_item]
+<h2>Timeline</h2>
+[trx_blogger cat="5" count="12" offset="0" scroll="yes" controls="yes" orderby="date" order="desc" style="date" location="default" dir="vertical" rating="no" descr="0" height="770"]
+[/trx_column_item]
+
+[trx_column_item span="2"]
+<h2>Your article title fits here perfectly</h2>
+[trx_tabs initial="1" scroll="no" tab_names="Web Design|Graphics|Coding" bottom="50"]
+
+[trx_tab]
+[trx_blogger cat="5" count="5" visible="5" offset="1" scroll="yes" orderby="date" order="desc" style="image_tiny" info="no"  dir="vertical" descr="200" height="230"]
+[/trx_tab]
+
+[trx_tab]
+[trx_blogger cat="portfolio-text" count="5" visible="5" offset="0" scroll="yes" orderby="date" order="asc" style="image_tiny" info="no"  dir="vertical" descr="200" height="230"]
+[/trx_tab]
+
+[trx_tab]
+[trx_blogger cat="portfolio-hover-4-columns" count="5" visible="5" offset="5" scroll="yes" orderby="date" order="desc" style="image_tiny" info="no"  dir="vertical" descr="200" height="230"]
+[/trx_tab]
+
+[/trx_tabs]
+
+[trx_section align="left" columns="1_2"]
+<h3>About Us</h3>
+[trx_accordion style="1" counter="off" large="off" shadow="on" initial="1"]
+[trx_accordion_item title="Lorem ipsum dolor sit amet"]
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum.
+[/trx_accordion_item]
+[trx_accordion_item title="Suspendisse blandit dolor"]
+Pellentesque a lectus ut leo aliquam sodales. Cras a dolor eget quam posuere porta et sit amet lorem. Aenean at tellus diam. Aliquam dapibus justo non orci hendrerit hendrerit. Morbi lacus nisl, ornare eget purus egestas, dignissim ultrices nisl.
+[/trx_accordion_item]
+[trx_accordion_item title="Proin ornare dolor sed ante"]
+Nulla lacinia elit tempor dui venenatis hendrerit. Sed at dictum erat. Nunc at mauris eget lacus faucibus sagittis. Sed tincidunt sit amet ipsum et pulvinar. Aenean tristique tellus mi, et lacinia est pretium in.
+[/trx_accordion_item]
+[/trx_accordion]
+[/trx_section]
+
+[trx_section align="left" columns="1_2" right="0"]
+<h3>Some facts about us</h3>
+[trx_skills type="counter" layout="columns" count="2" maximum="1000"]
+
+[trx_skills_item level="999" title="CSS3" style="1"]
+
+[trx_skills_item level="549" title="HTML5" style="2"]
+
+[/trx_skills]
+
+[trx_skills type="counter" layout="columns" count="2" maximum="1000"]
+
+[trx_skills_item level="68" title="MySQL" style="4"]
+
+[trx_skills_item level="174" title="PHP" style="3"]
+
+[/trx_skills]
+
+[/trx_section]
+
+[/trx_column_item]
+
+[/trx_columns]
+
+[trx_line style="shadow" top="10" bottom="20"]
+
+[trx_columns count="3"]
+[trx_column_item span="2"]
+<h2>Some of our clients</h2>
+[trx_section scroll="yes" dir="horizontal" height="120" controls="yes" bottom="30"]
+[trx_image url="http://kinder.themerex.net/wp-content/uploads/2014/02/partner1.png" align="left" width="120" height="120" right="25"]
+[trx_image url="http://kinder.themerex.net/wp-content/uploads/2014/02/partner2.png" align="left" width="120" height="120" right="25"]
+[trx_image url="http://kinder.themerex.net/wp-content/uploads/2014/02/partner3.png" align="left" width="120" height="120" right="25"]
+[trx_image url="http://kinder.themerex.net/wp-content/uploads/2014/02/partner4.png" align="left" width="120" height="120" right="25"]
+[trx_image url="http://kinder.themerex.net/wp-content/uploads/2014/02/partner5.png" align="left" width="120" height="120" right="25"]
+[trx_image url="http://kinder.themerex.net/wp-content/uploads/2014/02/partner6.png" align="left" width="120" height="120" right="25"]
+[trx_image url="http://kinder.themerex.net/wp-content/uploads/2014/02/partner7.png" align="left" width="120" height="120" right="25"]
+[trx_image url="http://kinder.themerex.net/wp-content/uploads/2014/02/partner8.png" align="left" width="120" height="120" right="25"]
+[trx_image url="http://kinder.themerex.net/wp-content/uploads/2014/02/partner9.png" align="left" width="120" height="120" right="25"]
+[trx_image url="http://kinder.themerex.net/wp-content/uploads/2014/02/partner10.png" align="left" width="120" height="120" right="25"]
+[trx_image url="http://kinder.themerex.net/wp-content/uploads/2014/02/partner11.png" align="left" width="120" height="120" right="25"]
+[trx_image url="http://kinder.themerex.net/wp-content/uploads/2014/02/partner12.png" align="left" width="120" height="120" right="25"]
+[trx_image url="http://kinder.themerex.net/wp-content/uploads/2014/02/partner13.png" align="left" width="120" height="120" right="25"]
+[trx_image url="http://kinder.themerex.net/wp-content/uploads/2014/02/partner14.png" align="left" width="120" height="120" right="25"]
+[trx_image url="http://kinder.themerex.net/wp-content/uploads/2014/02/partner15.png" align="left" width="120" height="120" right="25"]
+[trx_image url="http://kinder.themerex.net/wp-content/uploads/2014/02/partner16.png" align="left" width="120" height="120" right="25"]
+[trx_image url="http://kinder.themerex.net/wp-content/uploads/2014/02/partner17.png" align="left" width="120" height="120" right="25"]
+[trx_image url="http://kinder.themerex.net/wp-content/uploads/2014/02/partner18.png" align="left" width="120" height="120" right="25"]
+[trx_image url="http://kinder.themerex.net/wp-content/uploads/2014/02/partner19.png" align="left" width="120" height="120" right="25"]
+[trx_image url="http://kinder.themerex.net/wp-content/uploads/2014/02/partner20.png" align="left" width="120" height="120" right="25"]
+[trx_image url="http://kinder.themerex.net/wp-content/uploads/2014/02/partner21.png" align="left" width="120" height="120" right="25"]
+[trx_image url="http://kinder.themerex.net/wp-content/uploads/2014/02/partner22.png" align="left" width="120" height="120" right="25"]
+[/trx_section]
+
+[/trx_column_item]
+[trx_column_item]
+
+[trx_testimonials style="1" title="Testimonials" height="180" bottom="30"]
+[trx_testimonials_item name="Brandoncarr" position="Purchaser" email="wpspace.johnsnow@gmail.com"]
+Buy with confidence. This theme is top quality.
+Thanks Irvin!
+[/trx_testimonials_item]
+[trx_testimonials_item name="Green2005" position="Purchaser" email="wpspace.marthastewart@gmail.com"]
+Best purchase i made in envato.
+Great Theme!
+[/trx_testimonials_item]
+[trx_testimonials_item name="Waldo Orlandini" position="Purchaser"]
+Hi! I’ve just check and it work perfectly!
+Thank you very much.
+[/trx_testimonials_item]
+[trx_testimonials_item name="dominikhopko.com" position="Purchaser"]
+Hello All. Firstly, thank you so much for the great template! I have spent around 10hrs looking for a good template and yours was the best!
+[/trx_testimonials_item]
+[trx_testimonials_item name="Giggles666" position="Purchaser"]
+Awesome, thanks for looking out for us ThemeREX.
+Money well spent.
+[/trx_testimonials_item]
+[trx_testimonials_item name="Arnfinn Nilsen" position="Purchaser"]
+It’s the most appealing, creative and well thought out themes I have found on ThemeForest.
+Well done.
+[/trx_testimonials_item]
+[trx_testimonials_item name="Revilotmalk" position="Purchaser"]
+Great theme &amp; fast Support.
+[/trx_testimonials_item]
+[/trx_testimonials]
+
+[/trx_column_item]
+[/trx_columns]

@@ -1,0 +1,20 @@
+[trx_columns count="2"]
+[trx_column_item]
+
+[trx_image url="http://kinder.themerex.net/wp-content/uploads/2014/02/contact.jpg"]
+
+[/trx_column_item]
+[trx_column_item]
+<h1>We'd love to hear from you</h1>
+Lorem ipsum dolor sit amet, has facer euismod hendrerit cu. Ei zril aliquid iudicabit has, et duo tollit oportere. Ex eos admodum accumsan prodesset, vel ex accusam accusamus. Zril integre voluptua vis ea, labore conclusionemque te vim. Ei suas vivendum neglegentur vel, ipsum aliquam has ne.
+<h1>Business hours</h1>
+<big>Monday - Friday 9am to 5pm
+Saturday - 9am to 2pm
+Sunday - Closed</big>
+
+[/trx_column_item]
+[/trx_columns]
+
+[trx_contact_form title="Send Us a Message" top="50"]
+
+&nbsp;

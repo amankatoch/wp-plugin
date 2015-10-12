@@ -1,0 +1,293 @@
+/** 
+* PPRS Newsletter Plugin
+*/
+
+#builder-frame{
+	border: 1px solid #DFDFDF;
+    -webkit-transition: height .25s ease-in-out;
+    -moz-transition: height .25s ease-in-out;
+    -ms-transition: height .25s ease-in-out;
+    -o-transition: height .25s ease-in-out;
+    transition: height .25s ease-in-out;
+}
+
+textarea#template-output {
+    visibility: hidden;
+}
+
+#output-wrapper{
+	height: 0px !important;
+	overflow: hidden !important;
+}
+
+/** Edit Modules **/
+.esf-edit{
+	top:30px;
+	max-width: 600px;
+	height: 100%;
+	width: 100%;
+	position: fixed;
+	z-index: 9992;
+	display: none;
+	/*background-image: url(../_assets/background.png);*/
+	background-repeat: repeat;
+/*	padding-left: 110px;*/
+	box-sizing: border-box;
+}
+.esf-edit-box{
+	width: 100%;
+	background-color: rgba(255,255,255,1);
+	-webkit-box-shadow: 0px 0px 20px 0px rgba(0,0,0,0.5);
+	-moz-box-shadow: 0px 0px 20px 0px rgba(0,0,0,0.5);
+	box-shadow: 0px 0px 20px 0px rgba(0,0,0,0.5);
+	/*padding: 25px;*/
+	height: 100%;
+	display: none;
+	position: relative;
+}
+.esf-edit-box-title{
+	float: left;
+	width: 100%;
+	color: #444;
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 36px;
+    margin: 0;
+    padding: 0 36px 0 16px;
+    background: #fcfcfc;
+    border-bottom: 1px solid #dfdfdf;
+    box-sizing: border-box;
+}
+.esf-edit-box-content-text span {
+	font-size: 13px;
+	color: rgba(153,153,153,1);
+}
+
+.esf-edit-box-content{
+	float: left;
+	width: 100%;
+}
+.esf-edit-box-content-text{
+	float: left;
+	width: 100%;
+	font-size: 16px;
+	color: rgba(102,102,102,1);
+	font-weight: 600;
+	margin-top: 15px;
+}
+.esf-edit-box-content-field{
+	float: left;
+	width: 100%;
+	padding: 10px;
+	box-sizing: border-box;
+}
+.esf-edit-box-content-field div#wp-content-editor-tools {
+    padding: 0;
+    background: #fff;
+}
+.esf-edit-box-content-field .wp-editor-tabs button {
+    margin-top: 0;
+}
+.esf-edit-box-content-field-input {
+	float: left;
+	height: 33px;
+	width: 380px;
+	border: 1px solid rgba(204,204,204,1);
+	outline: none;
+	font-family: inherit;
+	padding-right: 10px;
+	padding-left: 10px;
+	font-size: 15px;
+	-webkit-transition: all 0.5s;
+	-moz-transition: all 0.5s;
+	-o-transition: all 0.5s;
+	transition: all 0.5s;
+	color: rgba(102,102,102,1);
+}
+.esf-edit-box-content-field-input:focus {
+    -webkit-box-shadow: inset 0px 0px 10px 0px rgba(0,0,0,0.2);
+	-moz-box-shadow: inset 0px 0px 10px 0px rgba(0,0,0,0.2);
+	box-shadow: inset 0px 0px 10px 0px rgba(0,0,0,0.2);	
+}
+.esf-edit-box-content-field-textarea {
+	float: left;
+	height: 180px;
+	width: 380px;
+	border: 1px solid rgba(204,204,204,1);
+	outline: none;
+	font-family: inherit;
+	font-size: 15px;
+	-webkit-transition: all 0.5s;
+	-moz-transition: all 0.5s;
+	-o-transition: all 0.5s;
+	transition: all 0.5s;
+	color: rgba(102,102,102,1);
+	resize: none;
+	padding: 10px;
+}
+.esf-edit-box-content-field-textarea:focus {
+    -webkit-box-shadow: inset 0px 0px 10px 0px rgba(0,0,0,0.2);
+	-moz-box-shadow: inset 0px 0px 10px 0px rgba(0,0,0,0.2);
+	box-shadow: inset 0px 0px 10px 0px rgba(0,0,0,0.2);	
+	}
+.esf-edit-box-content-icons {
+	float: left;
+	height: 190px;
+	width: 100%;
+	border: 1px solid #ddd;
+	/*margin-top: 15px;*/
+	overflow-y: scroll;
+}
+.esf-edit-box-content-icons i {
+	line-height: 50px;
+	background-color: rgba(225,225,225,1);
+	float: left;
+	height: 50px;
+	width: 50px;
+	margin-top: 10px;
+	margin-left: 10px;
+	text-align: center;
+	-webkit-transition: all 0.5s;
+	-moz-transition: all 0.5s;
+	-o-transition: all 0.5s;
+	transition: all 0.5s;
+	font-size: 28px;
+	color: rgba(51,51,51,1);
+}
+.esf-edit-box-content-icons i:hover {
+	cursor: pointer;
+	background-color: rgba(153,153,153,1);
+	-webkit-border-radius: 50%;
+	-moz-border-radius: 50%;
+	border-radius: 50%;
+	color: rgba(0,0,0,1);
+}
+.esf-edit-box-buttons{
+    width: 100%;
+    margin-top: 0;
+    position: absolute;
+    bottom: 0;
+    text-align: right;
+    border-top: 1px solid #dfdfdf;
+    padding: 10px;
+    box-sizing: border-box;
+}
+/*.esf-edit-box-buttons-save{
+	background-color: rgba(63,141,191,1);
+	height: 35px;
+	text-align: center;
+	line-height: 35px;
+	color: rgba(255,255,255,1);
+	font-weight: 600;
+	font-size: 14px;
+	-webkit-border-radius: 3px;
+	-moz-border-radius: 3px;
+	border-radius: 3px;
+	-webkit-transition: background 0.5s;
+	-moz-transition: background 0.5s;
+	-o-transition: background 0.5s;
+	transition: background 0.5s;
+	cursor: pointer;
+	float: left;
+	padding-right: 25px;
+	padding-left: 25px;
+}
+.esf-edit-box-buttons-save:hover {
+	background-color: rgba(51,175,222,1);
+}*/
+/*.esf-edit-box-buttons-cancel{
+	height: 33px;
+	text-align: center;
+	line-height: 33px;
+	color: rgba(84,101,122,1);
+	font-weight: 600;
+	font-size: 14px;
+	-webkit-border-radius: 3px;
+	-moz-border-radius: 3px;
+	border-radius: 3px;
+	-webkit-transition: background 0.5s;
+	-moz-transition: background 0.5s;
+	-o-transition: background 0.5s;
+	transition: background 0.5s;
+	cursor: pointer;
+	border: 1px solid #e4e4e5;
+	float: left;
+	padding-right: 25px;
+	padding-left: 25px;
+	margin-left: 25px;
+}
+.esf-edit-box-buttons-cancel:hover {
+	background-color: rgba(153,153,153,0.1);
+}*/
+
+div#edit-modules-container {
+    position: relative;
+}
+.edit-overlay {
+    background-color: rgba(0,0,0,0.5);
+    width: 100%;
+    height: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 9991;
+}
+.esf-edit-box-content-field label {
+    display: block;
+}
+.esf-edit-box-content-field label span {
+    color: #999;
+}
+.esf-edit-box-content-field.nth {
+    padding-top: 0;
+}
+
+ul.icons-list > li,
+ul.buttons-list > li,
+ul.new-icons-list > li {
+    width: 10%;
+    display: inline-block;
+    float: left;
+    padding: 5px;
+    margin: 0;
+    line-height: 0;
+    box-sizing: border-box;
+    border: 1px solid #eee;
+    margin-right: 1%;
+    margin-bottom: 1%;
+    cursor: pointer;
+}
+ul.buttons-list > li{
+	width: 19%;
+}
+ul.icons-list > li > img,
+ul.buttons-list > li > img,
+ul.new-icons-list > li > img {
+    width: 100%;
+}
+.esf-edit-box-content.icons-box,
+.esf-edit-box-content.button-box {
+    padding: 10px;
+    box-sizing: border-box;
+}
+ul.icons-list,
+ul.buttons-list,
+ul.new-icons-list {
+    margin: 0;
+    padding: 5px;
+    box-sizing: border-box;
+    float: left;
+    width: 100%;
+}
+div#pprs_campaign_savebox .inside {
+    padding: 0;
+    margin: 0;
+}
+div#pprs_campaign_savebox #major-publishing-actions{
+	background: #fff;
+	border-top: 0;
+}
+
+ul.new-icons-list > li.selected {
+    border: 1px solid #0791A7;
+}

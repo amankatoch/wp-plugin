@@ -1,0 +1,115 @@
+[trx_parallax style="light" dir="up" image="http://kinder.themerex.net/wp-content/uploads/2014/06/Depositphotos_12359307_original.jpg"]
+
+[trx_content top="60" bottom="60"]
+[trx_section align="right" columns="1_2" style="text-align: center;"]
+[trx_title type="1" align="center" style="regular" class="theme_accent"]We will take
+care of your kids[/trx_title]
+[trx_title type="3" align="center" style="divider" class="theme_accent2" top="10" width="45%" left="auto" right="auto"]Popular information[/trx_title]
+[trx_block top="40" class="big_text"]
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut lab dolore magna aliqua. Ut enim ad minim.
+[/trx_block]
+[trx_block top="50"]
+[trx_button type="square" size="big" class="theme_accent_bg" link="#" right="20" bottom="20"]Purchase now[/trx_button]
+[trx_button type="square" size="big" class="theme_accent_bg" link="#" bottom="20"]Learn more[/trx_button]
+[/trx_block]
+
+[/trx_section]
+[/trx_content]
+
+[/trx_parallax]
+
+[trx_section class="textured" color="#ffffff" bg_color="#adc400" bg_image="http://kinder.themerex.net/wp-content/uploads/2014/06/texture_2.png"]
+[trx_content]
+[trx_title type="2" align="center" style="regular" top="50" color="#ffffff"]What Parents Say[/trx_title]
+
+[trx_testimonials style="2" height="220" bottom="50"]
+[trx_testimonials_item name="Brandoncarr" position="Happy Daddy" email="wpspace.johnsnow@gmail.com"]
+Buy with confidence. This theme is top quality. Find an issue? Worry not, because the support that this team provides is amazing! I would definitely recommend this theme for your next project or any other theme from ThemeREX for that matter. Thanks Irvin!
+[/trx_testimonials_item]
+[trx_testimonials_item name="Green2005" position="Purchaser" email="wpspace.marthastewart@gmail.com"]
+Best purchase i made in envato. Great Theme!
+[/trx_testimonials_item]
+[trx_testimonials_item name="Waldo Orlandini" position="Purchaser"]
+Hi! I’ve just check and it work perfectly! Thank you very much for your kindness and for all the work you’ve done to solve this issue. I’ll write about your fantastic support wherever i can. Thanks again.
+[/trx_testimonials_item]
+[trx_testimonials_item name="dominikhopko.com" position="Purchaser"]
+Hello All, Firstly, thank you so much for the great template! I have spent around 10hrs looking for a good template and yours was the best!
+[/trx_testimonials_item]
+[trx_testimonials_item name="Giggles666" position="Purchaser"]
+Awesome, thanks for looking out for us ThemeREX. Money well spent.
+[/trx_testimonials_item]
+[trx_testimonials_item name="Arnfinn Nilsen" position="Purchaser"]
+I’m preparing to change the theme on my photography/blog site to Puzzles. It’s the most appealing, creative and well thought out themes I have found on ThemeForest. I really like it’s responsiveness through all devices. Well done.
+[/trx_testimonials_item]
+[trx_testimonials_item name="Revilotmalk" position="Purchaser"]
+Great theme &amp; fast Support.
+[/trx_testimonials_item]
+[/trx_testimonials]
+[/trx_content]
+
+[/trx_section]
+
+[trx_content]
+
+[trx_title type="2" style="regular" align="center" top="50" bottom="30"]Meet Our Stuff[/trx_title]
+
+[trx_team count="4"]
+[trx_team_item name="Matthew Perry" position="principal" photo="http://kinder.themerex.net/wp-content/uploads/2014/06/stuff-1.jpg" socials="facebook=#|pinterest=#|twitter=#"]
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+[/trx_team_item]
+[trx_team_item name="David Schwimmer" position="mentor" photo="http://kinder.themerex.net/wp-content/uploads/2014/06/stuff-2.jpg" socials="facebook=#|twitter=#|gplus=#|dribbble=#"]
+Aliquam erat volutpat. Nulla pulvinar scelerisque dui, ac elementum dolor sagittis eget.
+[/trx_team_item]
+[trx_team_item name="Lisa Kudrow" position="teacher" photo="http://kinder.themerex.net/wp-content/uploads/2014/06/stuff-3.jpg" socials="facebook=#|twitter=#|rss=#"]
+Cras sodales, justo et rutrum consequat, elit magna semper augue, quis viverra velit orci quis diam. Sed vestibulum porta tellus, sed cursus velit laoreet non.
+[/trx_team_item]
+[trx_team_item name="Matt LeBlanc" position="teacher" photo="http://kinder.themerex.net/wp-content/uploads/2014/06/stuff-4.jpg" socials="facebook=#|twitter=#|dribbble=#"]
+Donec vestibulum elementum massa id tempor. Cras malesuada sapien mauris, quis tincidunt metus euismod sit amet. Pellentesque tempor volutpat leo, eget bibendum risus mattis et
+[/trx_team_item]
+[/trx_team]
+
+[/trx_content]
+
+[trx_section class="textured theme_accent_bg" color="#ffffff" bg_image="http://kinder.themerex.net/wp-content/uploads/2014/06/texture_3.png"]
+[trx_content]
+[trx_twitter count="3" interval="7000" class="main"]
+[/trx_content]
+
+[/trx_section]
+
+[trx_content]
+
+[trx_columns count="3" top="60" bottom="20"]
+
+[trx_column_item]
+<h2>Timeline</h2>
+[trx_blogger cat="5" count="12" offset="0" scroll="yes" controls="yes" orderby="date" order="desc" style="date" location="default" dir="vertical" rating="no" descr="0" height="330"]
+[/trx_column_item]
+
+[trx_column_item span="2"]
+<h2>Activities</h2>
+[trx_tabs initial="1" scroll="no" tab_names="Play|Learn|Painting|Sport"]
+
+[trx_tab]
+[trx_blogger cat="5" count="5" visible="5" offset="1" scroll="yes" orderby="date" order="desc" style="image_tiny" info="no" dir="vertical" descr="200" height="240"]
+[/trx_tab]
+
+[trx_tab]
+[trx_blogger cat="portfolio-text" count="5" visible="5" offset="0" scroll="yes" orderby="date" order="asc" style="image_tiny" info="no" dir="vertical" descr="200" height="240"]
+[/trx_tab]
+
+[trx_tab]
+[trx_blogger cat="portfolio-hover-4-columns" count="5" visible="5" offset="5" scroll="yes" orderby="date" order="desc" style="image_tiny" info="no" dir="vertical" descr="200" height="240"]
+[/trx_tab]
+
+[trx_tab]
+[trx_blogger cat="masonry-demo" count="5" visible="5" scroll="yes" orderby="date" order="desc" style="image_tiny" info="no" dir="vertical" descr="200" height="240"]
+[/trx_tab]
+
+[/trx_tabs]
+
+[/trx_column_item]
+
+[/trx_columns]
+
+[/trx_content]

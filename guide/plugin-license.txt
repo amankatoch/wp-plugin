@@ -1,0 +1,25 @@
+LICENSE CERTIFICATE : <<Company Name>>
+==============================================
+
+This document certifies the purchase of:
+ONE REGULAR LICENSE
+as defined in the standard terms and conditions on <<Company Name>>.
+
+Licensor's Author Username: <<Username of user of site from where plugin purchased>>
+Licensee: <<Licensee Owner Name>>
+
+For the item:
+<<Plugin Name>>
+
+<<Plugin URL>>
+Item ID: <<Plugin Item ID>>
+
+Item Purchase Code: <<Plugin Purchase Code>>
+
+Purchase Date: <<Plugin Purchase Date>>
+
+For any queries related to this document or license please contact Help Team via <<Support URL>>
+
+<<Company Address>>
+
+==== THIS IS NOT A TAX RECEIPT OR INVOICE ====

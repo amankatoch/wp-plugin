@@ -1,0 +1,28 @@
+<h2>Hover "Square Effect 1"</h2>
+[trx_blogger cat="portfolio-hover-4-columns" count="6" orderby="date" order="desc" style="portfolio3" hover="square effect1" hover_dir="bottom_to_top" info="yes" descr="100" dir="vertical"]
+<h2>Hover "Square Effect 2"</h2>
+[trx_blogger cat="portfolio-hover-4-columns" count="6" offset="1" orderby="date" order="desc" style="portfolio3" hover="square effect2" info="yes" descr="100" dir="vertical"]
+<h2>Hover "Square Effect 3"</h2>
+[trx_blogger cat="portfolio-hover-4-columns" count="6" offset="2" orderby="date" order="desc" style="portfolio3" hover="square effect3" hover_dir="top_to_bottom" info="yes" descr="100" dir="vertical"]
+<h2>Hover "Square Effect 5"</h2>
+[trx_blogger cat="portfolio-hover-4-columns" count="6" offset="4" orderby="date" order="desc" style="portfolio3" hover="square effect5" hover_dir="left_to_right" info="yes" descr="100" dir="vertical"]
+<h2>Hover "Square Effect 6"</h2>
+[trx_blogger cat="portfolio-hover-4-columns" count="6" offset="5" orderby="date" order="desc" style="portfolio3" hover="square effect6" hover_dir="from_top_and_bottom" info="yes" descr="100" dir="vertical"]
+<h2>Hover "Square Effect 7"</h2>
+[trx_blogger cat="portfolio-hover-4-columns" count="6" offset="6" orderby="date" order="desc" style="portfolio3" hover="square effect7" info="yes" descr="100" dir="vertical"]
+<h2>Hover "Square Effect 8"</h2>
+[trx_blogger cat="portfolio-hover-4-columns" count="6" offset="7" orderby="date" order="desc" style="portfolio3" hover="square effect8" hover_dir="scale_up" info="yes" descr="100" dir="vertical"]
+<h2>Hover "Square Effect 9"</h2>
+[trx_blogger cat="portfolio-hover-4-columns" count="6" offset="8" orderby="date" order="desc" style="portfolio3" hover="square effect9" hover_dir="left_to_right" info="yes" descr="100" dir="vertical"]
+<h2>Hover "Square Effect 10"</h2>
+[trx_blogger cat="portfolio-hover-4-columns" count="6" offset="9" orderby="date" order="desc" style="portfolio3" hover="square effect10" hover_dir="top_to_bottom" info="yes" descr="100" dir="vertical"]
+<h2>Hover "Square Effect 11"</h2>
+[trx_blogger cat="portfolio-hover-4-columns" count="6" offset="10" orderby="date" order="desc" style="portfolio3" hover="square effect11" hover_dir="left_to_right" info="yes" descr="100" dir="vertical"]
+<h2>Hover "Square Effect 12"</h2>
+[trx_blogger cat="portfolio-hover-4-columns" count="6" offset="0" orderby="date" order="asc" style="portfolio3" hover="square effect12" hover_dir="left_to_right" info="yes" descr="100" dir="vertical"]
+<h2>Hover "Square Effect 13"</h2>
+[trx_blogger cat="portfolio-hover-4-columns" count="6" offset="1" orderby="date" order="asc" style="portfolio3" hover="square effect13" hover_dir="top_to_bottom" info="yes" descr="100" dir="vertical"]
+<h2>Hover "Square Effect 14"</h2>
+[trx_blogger cat="portfolio-hover-4-columns" count="6" offset="2" orderby="date" order="asc" style="portfolio3" hover="square effect14" hover_dir="left_to_right" info="yes" descr="100" dir="vertical"]
+<h2>Hover "Square Effect 15"</h2>
+[trx_blogger cat="portfolio-hover-4-columns" count="6" offset="3" orderby="date" order="asc" style="portfolio3" hover="square effect15" hover_dir="top_to_bottom" info="yes" descr="100" dir="vertical"]

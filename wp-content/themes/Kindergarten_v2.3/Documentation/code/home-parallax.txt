@@ -1,0 +1,96 @@
+[trx_parallax gap="no" style="dark" dir="up" speed="0.2" color="#0c1019" image="http://kinder.themerex.net/wp-content/uploads/2014/04/parallax2.jpg"]
+
+[trx_block color="#ffffff" bg_color="#f4c119" bg_image="http://kinder.themerex.net/wp-content/uploads/2014/06/texture_2.png" style="opacity:0.9"]
+
+[trx_content]
+
+[trx_columns count="5"]
+
+[trx_column_item]
+[trx_icon align="center" icon="icon-diamond" size="70" weight="300" top="60" bottom="30"]
+[trx_section style="font-size:18px; font-weight:300; text-align:center" bottom="50"]Clean Design[/trx_section]
+[/trx_column_item]
+[trx_column_item]
+[trx_icon align="center" icon="icon-beaker" size="70" weight="300" top="60" bottom="30"]
+[trx_section style="font-size:18px; font-weight:300; text-align:center" bottom="50"]Incredibly Flexible[/trx_section]
+[/trx_column_item]
+[trx_column_item]
+[trx_icon align="center" icon="icon-mobile" size="70" weight="300" top="60" bottom="30"]
+[trx_section style="font-size:18px; font-weight:300; text-align:center" bottom="50"]100% Responsive[/trx_section]
+[/trx_column_item]
+[trx_column_item]
+[trx_icon align="center" icon="icon-megaphone" size="70" weight="300" top="60" bottom="30"]
+[trx_section style="font-size:18px; font-weight:300; text-align:center" bottom="50"]SEO Ready[/trx_section]
+[/trx_column_item]
+[trx_column_item]
+[trx_icon align="center" icon="icon-cog" size="70" weight="300" top="60" bottom="30"]
+[trx_section style="font-size:18px; font-weight:300; text-align:center" bottom="50"]Free Support[/trx_section]
+[/trx_column_item]
+[/trx_columns]
+
+[/trx_content]
+
+[/trx_block]
+
+[trx_content]
+
+[trx_title type="1" align="center" style="regular" top="200" bottom="200"]Create unlimited number
+of <strong>Parallax</strong> backgrounds![/trx_title]
+
+[/trx_content]
+
+[/trx_parallax]
+
+[trx_parallax gap="no" style="light" dir="down" speed="0.2" color="#ffffff" image="http://kinder.themerex.net/wp-content/uploads/2014/04/parallax3.jpg"]
+
+[trx_content top="50" bottom="50"]
+<h2>Recent from the Blog</h2>
+[trx_blogger cat="5" count="2" visible="2" offset="1" scroll="no" controls="no" orderby="date" order="desc" style="related" location="default" dir="horizontal" rating="no" descr="100" info="yes" width="50%"]
+
+[/trx_content]
+
+[/trx_parallax]
+
+[trx_parallax gap="no" style="dark" dir="up" color="#000000" image="http://kinder.themerex.net/wp-content/uploads/2014/04/parallax1.jpg"]
+
+[trx_content top="50" bottom="50"]
+
+[trx_section columns="1_2" align="right"]
+<h1 style="text-align: center;">What our
+<strong> happy</strong> parents say</h1>
+[trx_quote title="Steve Jobs" top="50" bottom="50"]Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work. And the only way to do great work is to love what you do.[/trx_quote]
+
+[/trx_section]
+
+[/trx_content]
+
+[/trx_parallax]
+
+[trx_parallax gap="no" style="light" speed="0.2" dir="down" color="#f9f9f9" image="http://kinder.themerex.net/wp-content/uploads/2014/04/parallax4.jpg"]
+
+[trx_content top="50" bottom="50"]
+
+[trx_columns count="2"]
+
+[trx_column_item]
+<h2 style="text-align: center;">Theme is easily adaptable
+to any mobile device</h2>
+[trx_title type="3" style="iconed" image="lens_icon_retina" position="left"]Retina Ready[/trx_title]
+
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit.
+
+[trx_block top="30"]
+
+[trx_title type="3" style="iconed" image="hand_icon_retina" position="left"]Tablet friendly[/trx_title]
+
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.<img title="More..." src="http://kinder.themerex.net/wp-includes/js/tinymce/plugins/wordpress/img/trans.gif" alt="" />
+
+[/trx_block]
+
+[/trx_column_item]
+
+[/trx_columns]
+
+[/trx_content]
+
+[/trx_parallax]

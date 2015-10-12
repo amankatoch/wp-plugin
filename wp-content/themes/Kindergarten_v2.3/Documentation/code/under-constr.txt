@@ -1,0 +1,7 @@
+<h1 style="text-align: center;">Our Website is Under Construction</h1>
+<p style="text-align: center;">Estimated time remaining before launching the site</p>
+[trx_countdown date="2014-12-31" time="23:59:59" top="50" bottom="20"]
+
+[trx_emailer group="Under Constraction" align="center" open="yes"]
+
+&nbsp;

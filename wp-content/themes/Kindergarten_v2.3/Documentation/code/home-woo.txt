@@ -1,0 +1,50 @@
+<h2 style="text-align: center;">Top sellers</h2>
+[best_selling_products columns="4" per_page="4"]
+[trx_line style="shadow" top="20" bottom="30"]
+<h2 style="text-align: center;">Categories</h2>
+[product_categories number='6' columns='6']
+
+[trx_line style="shadow" top="20" bottom="30"]
+<h2 style="text-align: center;">Why shop at Kindergarten</h2>
+[trx_section class="wooc_demo_icons"]
+<a href="#">[trx_icon icon="icon-gift" size="72" align="center"]</a><a href="#">[trx_block class="demo_title" style="font-size:18px; font-weight:300; color:#222222; text-align:center"]Great Service[/trx_block]</a><a href="#">[trx_block class="demo_desc" style="font-size:14px; font-weight:300; font-style:italic; text-align:center"]After You Buy[/trx_block]
+</a>[/trx_section]
+
+[trx_section class="wooc_demo_icons"]
+<a href="#"> [trx_icon icon="icon-money" size="72" align="center"][trx_block class="demo_title" style="font-size:18px; font-weight:300; color:#222222; text-align:center"]Great Prices[/trx_block][trx_block class="demo_desc" style="font-size:14px; font-weight:300; font-style:italic; text-align:center"]&amp; Great Deals[/trx_block]</a>
+[/trx_section]
+
+[trx_section class="wooc_demo_icons"]
+<a href="#">[trx_icon icon="icon-24h" size="72" align="center"][trx_block class="demo_title" style="font-size:18px; font-weight:300; color:#222222; text-align:center"]Consult a Professional[/trx_block][trx_block class="demo_desc" style="font-size:14px; font-weight:300; font-style:italic; text-align:center"]With Live Chat Online[/trx_block]</a>
+[/trx_section]
+
+[trx_section class="wooc_demo_icons"]
+<a href="#">[trx_icon icon="icon-earth" size="72" align="center"][trx_block class="demo_title" style="font-size:18px; font-weight:300; color:#222222; text-align:center"]Easy 30-Day Return Policy[/trx_block][trx_block class="demo_desc" style="font-size:14px; font-weight:300; font-style:italic; text-align:center"]Shop With Confidence[/trx_block]</a>
+[/trx_section]
+
+[trx_line style="shadow" top="30" bottom="30"]
+<h2 style="text-align: center;">Some of our brands</h2>
+[trx_section scroll="yes" dir="horizontal" height="120" controls="yes" bottom="50"]
+[trx_image url="http://kinder.themerex.net/wp-content/uploads/2014/02/partner1.png" align="left" width="120" height="120" right="25"]
+[trx_image url="http://kinder.themerex.net/wp-content/uploads/2014/02/partner2.png" align="left" width="120" height="120" right="25"]
+[trx_image url="http://kinder.themerex.net/wp-content/uploads/2014/02/partner3.png" align="left" width="120" height="120" right="25"]
+[trx_image url="http://kinder.themerex.net/wp-content/uploads/2014/02/partner4.png" align="left" width="120" height="120" right="25"]
+[trx_image url="http://kinder.themerex.net/wp-content/uploads/2014/02/partner5.png" align="left" width="120" height="120" right="25"]
+[trx_image url="http://kinder.themerex.net/wp-content/uploads/2014/02/partner6.png" align="left" width="120" height="120" right="25"]
+[trx_image url="http://kinder.themerex.net/wp-content/uploads/2014/02/partner7.png" align="left" width="120" height="120" right="25"]
+[trx_image url="http://kinder.themerex.net/wp-content/uploads/2014/02/partner8.png" align="left" width="120" height="120" right="25"]
+[trx_image url="http://kinder.themerex.net/wp-content/uploads/2014/02/partner9.png" align="left" width="120" height="120" right="25"]
+[trx_image url="http://kinder.themerex.net/wp-content/uploads/2014/02/partner10.png" align="left" width="120" height="120" right="25"]
+[trx_image url="http://kinder.themerex.net/wp-content/uploads/2014/02/partner11.png" align="left" width="120" height="120" right="25"]
+[trx_image url="http://kinder.themerex.net/wp-content/uploads/2014/02/partner12.png" align="left" width="120" height="120" right="25"]
+[trx_image url="http://kinder.themerex.net/wp-content/uploads/2014/02/partner13.png" align="left" width="120" height="120" right="25"]
+[trx_image url="http://kinder.themerex.net/wp-content/uploads/2014/02/partner14.png" align="left" width="120" height="120" right="25"]
+[trx_image url="http://kinder.themerex.net/wp-content/uploads/2014/02/partner15.png" align="left" width="120" height="120" right="25"]
+[trx_image url="http://kinder.themerex.net/wp-content/uploads/2014/02/partner16.png" align="left" width="120" height="120" right="25"]
+[trx_image url="http://kinder.themerex.net/wp-content/uploads/2014/02/partner17.png" align="left" width="120" height="120" right="25"]
+[trx_image url="http://kinder.themerex.net/wp-content/uploads/2014/02/partner18.png" align="left" width="120" height="120" right="25"]
+[trx_image url="http://kinder.themerex.net/wp-content/uploads/2014/02/partner19.png" align="left" width="120" height="120" right="25"]
+[trx_image url="http://kinder.themerex.net/wp-content/uploads/2014/02/partner20.png" align="left" width="120" height="120" right="25"]
+[trx_image url="http://kinder.themerex.net/wp-content/uploads/2014/02/partner21.png" align="left" width="120" height="120" right="25"]
+[trx_image url="http://kinder.themerex.net/wp-content/uploads/2014/02/partner22.png" align="left" width="120" height="120" right="25"]
+[/trx_section]
